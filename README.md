@@ -1,6 +1,6 @@
 # Trabalho Final - CSI606-24.1
 
-## Por Samuell Aguiar - 21.2.8025
+## Aluno(a): Samuell Aguiar
 
 ### -> Resumo
 
