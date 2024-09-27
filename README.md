@@ -21,7 +21,7 @@
 
 ### -> Desafios e Dificuldades
 
-Um dos principais desafios foi a implementação da funcionalidade dos preços para cada ingrediente e fazer a soma em tempo real de escolha. Tendo em vista que nunca havia feito algo nesse sentido, foram necessários estudos e testes para implementar tal função.
+Um dos principais desafios foi a implementação da funcionalidade dos preços para cada ingrediente e fazer a soma em tempo real de escolha. Tendo em vista que nunca havia feito algo nesse sentido, foram necessários muitos estudos e testes para implementar tal função.
 
 ### -> Como Executar:
 
